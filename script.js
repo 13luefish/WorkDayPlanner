@@ -1,1 +1,0 @@
-$("#currentDay").text("test test !");
